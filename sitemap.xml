@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<!-- Free Sitemap Generator http://www.sitemapx.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://asocivilcesarl.com.ve/</loc>
+<priority>1.0</priority>
+<lastmod>2017-08-26T05:57:07+00:00</lastmod>
+<changefreq>Always</changefreq>
+</url>
+<url>
+<loc>http://asocivilcesarl.com.ve/index.html</loc>
+<priority>0.0</priority>
+<lastmod>2017-08-26T05:57:07+00:00</lastmod>
+<changefreq>Always</changefreq>
+</url>
+<url>
+<loc>http://asocivilcesarl.com.ve/portafolio.html</loc>
+<priority>0.0</priority>
+<lastmod>2017-08-25T19:49:52+00:00</lastmod>
+<changefreq>Always</changefreq>
+</url>
+<url>
+<loc>http://asocivilcesarl.com.ve/galeria.html</loc>
+<priority>0.0</priority>
+<lastmod>2017-08-25T19:49:50+00:00</lastmod>
+<changefreq>Always</changefreq>
+</url>
+<url>
+<loc>http://asocivilcesarl.com.ve/resena.html</loc>
+<priority>0.0</priority>
+<lastmod>2017-08-25T19:49:56+00:00</lastmod>
+<changefreq>Always</changefreq>
+</url>
+</urlset>
