@@ -186,3 +186,14 @@ a.active {
 	background: linear-gradient(to right, rgba(11,80,137,1) 0%, rgba(4,56,99,1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0b5089', endColorstr='#043863', GradientType=1 );
 }
+/**	-------- estilo de la plantilla de inscripcion --- */
+.cuerpo_planilla{
+	margin-top:10px; 
+	background: #3785a6;
+	padding: 8px 0;
+	border-radius: 8px 8px 8px 8px;
+	-moz-border-radius: 8px 8px 8px 8px;
+	-webkit-border-radius: 8px 8px 8px 8px;
+	border: 1px solid #1d687d;
+
+}
